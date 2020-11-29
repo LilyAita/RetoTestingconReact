@@ -3,7 +3,7 @@
 Grupo 5\
 Sofía Vargas\
 Sebastian Gomez\
-Lily Duque\
+Lily Duque
 
 ### `npm test`
 
